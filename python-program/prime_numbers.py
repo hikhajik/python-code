@@ -1,4 +1,4 @@
-# Program to find prime numbers up to a given number
+# Program to find prime numbers up to a given number123
 
 def is_prime(num):
     """Check if a number is prime."""
