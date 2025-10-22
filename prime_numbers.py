@@ -1,4 +1,4 @@
-# Program to find prime numbers up to a given number
+# Program to find prime numbers up to a given number1
 
 def is_prime(num):
     """Check if a number is prime."""
@@ -21,6 +21,7 @@ def find_primes(limit):
 limit = int(input("Enter the upper limit: "))
 prime_numbers = find_primes(limit)
 print(f"Prime numbers up to {limit}: {prime_numbers}")
+
 
 
 
